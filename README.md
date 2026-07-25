@@ -28,12 +28,9 @@ Script Python untuk mengambil dan membandingkan data harga produk dari beberapa 
 
 ## Contoh Output
 
-| sumber       | nama                  | harga    |
-|--------------|-----------------------|----------|
-| Toko Laptop  | Dell Vostro 15 (3568) | $497.17  |
-| Toko Tablet  | Asus VivoBook 15      | $899.99  |
+<img width="1514" height="905" alt="Tangkapan Layar 2026-07-26 pukul 06 57 45" src="https://github.com/user-attachments/assets/fc7cf7cb-a8ec-46aa-89a8-5186ea19334c" />
 
-*(ganti dengan screenshot hasil CSV/spreadsheet asli punya lu di sini)*
+
 
 ## Use Case
 Script ini cocok digunakan untuk:
