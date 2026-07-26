@@ -22,7 +22,7 @@ Script Python untuk mengambil dan membandingkan data harga produk dari beberapa 
 2. Edit bagian URL di dalam script sesuai target yang ingin di-scrape
 3. Jalankan script:
    ```bash
-   python perbandingan_harga.py
+   python harga_v2.py
    ```
 4. Hasil akan tersimpan otomatis sebagai `perbandingan_harga.csv`
 
